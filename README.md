@@ -68,3 +68,7 @@ BEGIN
     RETURN cantidad;
 END contar_pacientes;
 /
+
+Punto 2:
+realizamos la api con sus respectivos puntos , ademas le agregamos un testing a la api en el cual utilizamos
+Jest y Supertest para realizar las pruebas.
